@@ -5,6 +5,8 @@
   font-family: 'Inter', sans-serif;
 }
 
+/*sizing multiply by 1.54*/
+
 body {
   display: flex;
   flex-direction: column;
