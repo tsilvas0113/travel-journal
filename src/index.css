@@ -39,6 +39,7 @@ body {
   align-items: center;
   padding: 0 62px;
   padding-bottom: 55px;
+  justify-content: center;
 }
 
 .hero-img {
@@ -47,9 +48,19 @@ body {
   border-radius: 5px;
 }
 
+.hero-text {
+  padding-left: 29px;
+}
+
+.location {
+  margin-bottom: 11px;
+}
+
 .map-icon {
   width: 11px;
   height: 15px;
+  margin-bottom: 0;
+  margin-right: 6px;
 }
 
 .city {
@@ -58,6 +69,7 @@ body {
   line-height: 18px;
   letter-spacing: 0.26em;
   color: #2b283a;
+  margin-right: 18px;
 }
 
 .location > a {
@@ -72,6 +84,8 @@ body {
   font-size: 39px;
   line-height: 46px;
   color: #2b283a;
+  margin-bottom: 20px;
+  width: 502px;
 }
 
 .date {
@@ -79,6 +93,7 @@ body {
   font-size: 15px;
   line-height: 18px;
   color: #2b283a;
+  margin-bottom: 14px;
 }
 
 .description {

@@ -3,7 +3,7 @@ import React from "react";
 function Main (props) {
     return (
         <section className="hero">
-            <img className="hero-img" src={props.image} alt="location image" />
+            <img className="hero-img" src={props.image} alt="location" />
             <div className="hero-text">
                 <div className="location">
                     <img className="map-icon" src="./images/marker-icon.png" alt="map marker" />
