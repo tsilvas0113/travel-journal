@@ -23,7 +23,7 @@ const data = [
         id: 3,
         title: 'AT&T Stadium',
         location: 'ARLINGTON, TX',
-        mapsLink: 'https://goo.gl/maps/oGNeiUhRJh9LfWHT7',
+        mapsLink: 'https://goo.gl/maps/AYRXrR7Mci4i1TGp9',
         startDate: '22 Nov, 2022',
         endDate: '26 Nov, 2022',
         description: "AT&T Stadium, formerly Cowboys Stadium, is a retractable roof stadium in Arlington, Texas, United States. It serves as the home of the Dallas Cowboys of the National Football League and was completed on May 27, 2009. It is also the home of the Cotton Bowl Classic and the Big 12 Championship Game.",
