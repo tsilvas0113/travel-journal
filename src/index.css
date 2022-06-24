@@ -32,3 +32,9 @@ body {
   line-height: 17px;
   letter-spacing: -0.075em;
 }
+
+.hero-img {
+  width: 193px;
+  height: 259px;
+  border-radius: 5px;
+}
